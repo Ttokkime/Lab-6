@@ -1,1 +1,1 @@
-# Lab-6
+# Lab 6: Implementing a Business Continuity Plan
